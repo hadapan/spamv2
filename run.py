@@ -1,4 +1,4 @@
-from banner.Yxspam import *
+from Yxbanner.Yxspam import *
 
 biasa  = '\x1b[0m'
 
